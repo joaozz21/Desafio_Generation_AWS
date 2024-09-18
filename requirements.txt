@@ -1,0 +1,5 @@
+flask
+flask_sqlalchemy
+flask-restx
+psycopg2-binary
+gunicorn
